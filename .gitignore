@@ -1,0 +1,3 @@
+#ignore ems_raw and ems_update files
+ems_raw.csv
+ems_raw_update.csv
